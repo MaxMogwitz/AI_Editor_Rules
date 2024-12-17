@@ -1,1 +1,0 @@
-# AI_Editor_Rules
